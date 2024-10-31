@@ -16,3 +16,13 @@ I am a good team player with an experienced soft skills, ready to take responsib
 * Git (with GitHub and GitLab)
 * Figma
 
+## Experience
+
+## Education
+* University: Moscow Auto-mechanical institute, Bachelor of Metrology, Standardization and Certification
+* Courses:
+1. [Geekbrains](https://gb.ru/)
+1. [RS School](https://rs.school)
+
+## English
+C2 (I use English every day in my current job)
